@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Cooming soon</h1>
-    <h2>Articals</h2>
+    <h2>Articals Page</h2>
 </body>
 </html>
